@@ -3,7 +3,7 @@
 
 Here is a collection of my digital artwork. These come from various experiments.
 
-<img src="https://github.com/Simon-Sprouse/Profile-Assets/blob/7c7d363e1718508a566f5aeaf27c8d8dac6f1fe9/digital_art.png">
+<img src="https://github.com/Simon-Sprouse/Profile-Assets/blob/7c7d363e1718508a566f5aeaf27c8d8dac6f1fe9/digital_art.png" width="25%">
 
 
 <!---
