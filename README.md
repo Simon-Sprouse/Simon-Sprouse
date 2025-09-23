@@ -6,7 +6,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3>Unsupervised Music Vocabulary (ML)</h3>
         <ul>
           <li>Exploring unsupervised learning in music</li>
@@ -17,7 +17,7 @@
           <img src="https://github.com/Simon-Sprouse/Profile-Assets/blob/main/clusters_visual.png" width="90%" />
         </a>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3>Algorithmic Image → Mosaic Generation</h3>
         <ul>
           <li>Transforms images into mosaics algorithmically</li>
@@ -32,6 +32,7 @@
     </tr>
   </table>
 </div>
+
 
 
 Here is a collection of my digital artwork. These come from various experiments.
