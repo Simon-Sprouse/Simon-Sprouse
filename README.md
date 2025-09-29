@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simon-Sprouse
-- Artist, Musician, Software Engineer, Data Scientist
+- Artist, Musician, Software Engineer, Data Scientists, ML Enthusiast
 
 ## Current Projects (In Progress)
 
